@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marga\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\github\\PhishingReportAddin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D93E9F-26BC-4C7E-8810-9A5623738FCA}|PhishingReportAddin\\PhishingReportAddin.csproj|C:\\Users\\marga\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\github\\PhishingReportAddin\\phishingreportaddin\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{34D93E9F-26BC-4C7E-8810-9A5623738FCA}|PhishingReportAddin\\PhishingReportAddin.csproj|solutionrelative:phishingreportaddin\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\marga\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\github\\PhishingReportAddin\\PhishingReportAddin\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "PhishingReportAddin\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\marga\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\github\\PhishingReportAddin\\PhishingReportAddin\\Properties\\Settings.settings",
+              "RelativeToolTip": "PhishingReportAddin\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-01T06:41:39.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
